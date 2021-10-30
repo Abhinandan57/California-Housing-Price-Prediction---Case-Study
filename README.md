@@ -44,13 +44,14 @@ publishes sample data (a block group typically has a population of 600 to 3,000 
 - Predict output for test dataset using the fitted model.
 - Print root mean squared error (RMSE) from Linear Regression.
 
+![image](https://user-images.githubusercontent.com/26693264/139540082-6f0cd0ae-1f88-4eaa-a5a3-96dcf5ca232e.png)
+
+
 **7. Perform Linear Regression with one independent variable :**
 - Extract just the median_income column from the independent variables (from X_train and X_test).
 - Perform Linear Regression to predict housing values based on median_income.
 - Predict output for test dataset using the fitted model.
 - Plot the fitted model for training data as well as for test data to check if the fitted model satisfies the test data.
-
-![image](https://user-images.githubusercontent.com/26693264/139540082-6f0cd0ae-1f88-4eaa-a5a3-96dcf5ca232e.png)
 
 ### Linear Regression with One independent variable
 ![image](https://user-images.githubusercontent.com/26693264/139540117-b9344735-6e57-4750-8741-9d590d405f9d.png)
